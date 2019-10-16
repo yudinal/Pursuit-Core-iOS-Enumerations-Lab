@@ -5,6 +5,7 @@ import UIKit
 // a. Define an enumeration called iOSDeviceType with member values iPhone, iPad, iWatch. Create a variable called myiPad and assign it to .iPad.
 
 // Your code here
+jjj
 
 // Uncomment the lines below to test your solution
 
